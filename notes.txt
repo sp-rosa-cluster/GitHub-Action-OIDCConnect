@@ -1,0 +1,15 @@
+Referred YT videos
+setting up ssm
+https://www.youtube.com/watch?v=_LEmH0mK4zU
+setting up self hosted github runner
+https://www.youtube.com/watch?v=1dnzjhCEoIA
+setting up OID connectivity with AWS SSM
+https://www.youtube.com/watch?v=sw-a8nexTY8
+
+AWS docs
+https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html
+https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html#install-plugin-linux
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+github
+https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/configuring-openid-connect-in-amazon-web-services
